@@ -34,7 +34,7 @@ Add the following to your `app` module level `build.gradle` file:
 
 ```gradle
 dependencies {
-    implementation 'com.github.TutorialsAndroid:gbutton:v1.0.19'
+    implementation 'com.github.TutorialsAndroid:GButton:v1.0.19'
 }
 ```
 
