@@ -1,3 +1,5 @@
+![Google Sign-In Dark](images/GoogleSignUpDark.png)
+
 **GButtons** [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21) [![Known Vulnerabilities](https://snyk.io/test/github/TutorialsAndroid/GButton/badge.svg?targetFile=build.gradle)](https://snyk.io/test/github/TutorialsAndroid/GButton?targetFile=build.gradle) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/TutorialsAndroid/GButton)
 ---
 
