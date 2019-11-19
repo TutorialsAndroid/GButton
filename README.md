@@ -45,7 +45,7 @@ In your XML Layout, have the following:
     ...
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <com.developer.gbuttons
+    <com.developer.gbuttons.GoogleSignInButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
