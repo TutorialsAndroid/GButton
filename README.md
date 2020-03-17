@@ -5,6 +5,10 @@
 
 You want to add a Google Sign-In button to your Android application. But you want to change the text on the Google Sign-In button or provide custom localization? You would think setting `android:text` on the `com.google.android.gms.common.SignInButton` in your layout file would do the trick. However it turns out that that attribute is not available for `SignInButton`. 
 
+## Hire-Us
+
+<p align="center">Are you having trouble in your android projects then let us help you with it just Email Us. We love our users, so feel free to visit https://asm.life
+
 ## Download Our New App
 
 [Cocktail Friendship App](https://play.google.com/store/apps/details?id=developer.cocktail)
